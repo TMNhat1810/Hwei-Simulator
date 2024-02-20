@@ -1,0 +1,16 @@
+export const SkillImageAssets = {
+  q: require('./q.png'),
+  w: require('./w.png'),
+  e: require('./e.png'),
+  r: require('./r.png'),
+  qq: require('./qq.png'),
+  qw: require('./qw.png'),
+  qe: require('./qe.png'),
+  wq: require('./wq.png'),
+  ww: require('./ww.png'),
+  we: require('./we.png'),
+  eq: require('./eq.png'),
+  ew: require('./ew.png'),
+  ee: require('./ee.png'),
+  cancel: require('./cancel.png'),
+};

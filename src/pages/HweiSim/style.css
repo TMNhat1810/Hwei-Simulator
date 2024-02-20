@@ -1,0 +1,17 @@
+.content-container {
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.skill-container {
+    flex: 2;
+    background-color: white;
+}
+
+.skill-description {
+    flex: 1;
+    background-color: black;
+}
